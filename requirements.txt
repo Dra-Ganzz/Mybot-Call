@@ -1,0 +1,9 @@
+requests
+bs4
+BeautifulSoup
+rich
+rich-cli
+datetime
+fake_useragent
+colorama
+pycryptodome
