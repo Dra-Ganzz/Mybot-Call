@@ -7,7 +7,7 @@ install:
 	pip uninstall requests -y
 	pip uninstall bs4 -y
 	pip install httpie
-	pip install -r Data/requirements.txt
+	pip install -r requirements.txt
 	pip install phonenumbers
 	@gem install lolcat
 	@npm -g i chalk chalk-animation
