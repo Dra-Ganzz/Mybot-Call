@@ -30,7 +30,7 @@ make run
 </details>
 
 ## Full tutorialnya?
-- Link video <code><a href="https://youtu.be/OpNihVAeGHg?si=ICKHtlDKEP9srENF">klik disini</a></code>
+- Link video <code><a href="https://youtu.be/8KQ7LAVJ2II?si=17RSuAsiKMeZ08mv">klik disini</a></code>
 - Subs yt admin <code><a href="https://youtube.com/@VindraGanzz">Vindra Ganzz</a></code>
 - Download Termux Terbaru <code><a href="https://f-droid.org/repo/com.termux_1021.apk">klik disini Download</a></code>
 <div align="center">
