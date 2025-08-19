@@ -16,7 +16,7 @@ pkg install ffmpeg
 pkg install git
 git clone https://github.com/Dra-Ganzz/Mybot-Call
 cd Mybot-Call
-make update
+git pull
 make install
 make run
 
