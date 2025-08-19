@@ -11,7 +11,7 @@ install:
 	pip uninstall urllib3 -y
 	pip uninstall bs4 -y
 	pip install httpie
-	pip install -r Data/requirements.txt
+	pip install -r requirements.txt
 	@gem install lolcat
 	@npm -g i chalk chalk-animation
 	@echo "[+] paket berhasil di setup Jalankan make run | bash apps.sh"
