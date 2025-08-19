@@ -17,7 +17,7 @@ install:
 	@echo "[+] paket berhasil di setup Jalankan make run | bash apps.sh"
 
 update:
-	pip install -r Data/requirements.txt
+	pip install -r requirements.txt
 
 run:
 	@echo "[+] Lagi Di Run Sabar"
