@@ -15,9 +15,12 @@ requests-toolbelt
 certifi
 dns-client
 cloudscraper
-pillow
 faker
 rich-cli
 httpx
 pypasser
 urllib3
+pydub
+audioop-lts
+legacy-cgi
+standard-aifc
