@@ -21,4 +21,4 @@ update:
 
 run:
 	@echo "[+] Lagi Di Run Sabar"
-	@python3 mybotcall.py
+	@python3 apps.py
